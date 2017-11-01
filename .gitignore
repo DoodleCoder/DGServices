@@ -99,5 +99,3 @@ ENV/
 .mypy_cache/
 
 migrations/
-media/
-db.sqlite3
